@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Insta Clon</string>
+    <string name="title_activity_feed">FeedActivity</string>
+</resources>
